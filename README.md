@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Kausik-Kar
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Coding
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Artificial Intelligence/Machine Learning and Backend Development
+- 🌱 I’m currently learning C/C++/Python
+- 💞️ I’m looking to collaborate on AI/ML & Backend Development
 
 <!---
 Kausik-Kar/Kausik-Kar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
