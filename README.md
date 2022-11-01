@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kausik-Kar
-- 👀 I’m interested in Artificial Intelligence/Machine Learning and Backend Development
+- 👀 I’m interested in Artificial Intelligence/Machine Learning and Android App Development
 - 🌱 I’m currently learning C/C++/Python
-- 💞️ I’m looking to collaborate on AI/ML & Backend Development
+- 💞️ I’m looking to collaborate on AI/ML & Andoid App Development
 
 <!---
 Kausik-Kar/Kausik-Kar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
